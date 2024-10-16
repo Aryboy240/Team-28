@@ -23,5 +23,14 @@ public class Math {
     		}
 	}
 
+	/*Developer: Hussen Ahmed
+	* University ID: 230177600
+	* Function: This function takes two integer as input, multiple both numbers and returns the result.
+	*/
+	public int multiply(int num1, int num2){
+		return num1 * num2;		
+	}
+
+
 
 }
