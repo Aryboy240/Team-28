@@ -43,5 +43,14 @@ public class Math {
 	public void aaaa() {
 		//....
 	}
+	public void aaaa12() {
+		//....
+	}
+	public void aaaa2() {
+		//....
+	}
+	public void aaaa3() {
+		//....
+	}
 
 }
