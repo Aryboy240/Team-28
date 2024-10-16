@@ -43,6 +43,15 @@ public class Math {
 	public static int mod(int a, int b) {
 		return a % b;
 	}
+
+	/* Developer: Hussen Ahmed
+	 * University ID: 230177600
+	 * Function: his function takes two integer as input, multiple both numbers and returns the result. 
+	 */
+	
+	public static int multiply(int num1, int num2){
+		return num1 * num2;
+	}
 	
 	/* Developer: Aryan Kora
 	 * University ID: 230059030
