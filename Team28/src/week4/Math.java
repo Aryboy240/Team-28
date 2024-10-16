@@ -10,5 +10,18 @@ public class Math {
 	    return num1 + num2;
 	}
 
+	/*Developer: Aqsa Amjad
+	* University ID: 230066670
+	* Function: Min: This function takes two integer as input and returns the minimum one. 
+	*/
+
+	public int Min(int num1, int num2){
+    		if (num2 >= num1){
+        	return num1
+    		}else{
+       		return num2
+    	}
+}
+
 
 }
