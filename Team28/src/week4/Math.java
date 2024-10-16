@@ -23,5 +23,13 @@ public class Math {
     		}
 	}
 
+	/********************************
+ 	* Developer: Oyinlola Esther Arowolo
+ 	* University ID: 230402373
+ 	* Function: This function takes two integers as inputs and returns the result of subtracting the second integer from the first.
+ 	********************************/
+	public int sub(int num1, int num2) {
+    return num1 - num2;
+	}
 
 }
