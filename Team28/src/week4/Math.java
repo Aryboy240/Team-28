@@ -10,8 +10,8 @@ public class Math {
 	    return num1 + num2;
 	}
 
-	/*Developer: Aqsa Amjad
-	* University ID: 230066670
+	/*Developer: Angus kwok
+	* University ID: 230049488
 	* Function: Min: This function takes two integer as input and returns the minimum one. 
 	*/
 
