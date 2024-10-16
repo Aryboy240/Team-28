@@ -1,27 +1,32 @@
 package week4;
 
 public class Math {
-    
-	/* Developer: Aqsa Amjad
+
+    /* Developer: Aqsa Amjad
 	 * University ID: 230066670
 	 * Function: This function takes two inputs as integers and returns the sum
-	 */
-	public int add(int num1, int num2) {
-	    return num1 + num2;
-	}
+     */
+    public int add(int num1, int num2) {
+        return num1 + num2;
+    }
 
-	/*Developer: Angus kwok
+    /*Developer: Angus kwok
 	* University ID: 230049488
 	* Function: Min: This function takes two integer as input and returns the minimum one. 
-	*/
+     */
+    public int Min(int num1, int num2) {
+        if (num2 >= num1) {
+            return num1;
+        } else {
+            return num2;
+        }
+    }
 
-	public int Min(int num1, int num2){
-    		if (num2 >= num1){
-        		return num1;
-    		}else{
-       			return num2;
-    		}
-	}
-
-
+    /*Developer: Esther
+     * University ID: 230402373
+     * Sub: This function takes two integer as input, subtract the second input from first one and returns the result.
+     */
+    public int sub(int num1, int num2) {
+        return num1 - num2;
+    }
 }
