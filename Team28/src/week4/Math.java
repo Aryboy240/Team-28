@@ -44,4 +44,7 @@ public class Math {
 		//....
 	}
 
+	public void bbbb() {
+		//....
+	}
 }
