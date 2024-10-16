@@ -17,9 +17,9 @@ public class Math {
 
 	public int Min(int num1, int num2){
     		if (num2 >= num1){
-        	return num1
+        		return num1;
     		}else{
-       		return num2
+       			return num2;
     	}
 }
 
