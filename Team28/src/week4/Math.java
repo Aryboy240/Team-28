@@ -29,4 +29,14 @@ public class Math {
 	 */
 	public int Mod(int a, int b) {
 		return a % b;
+  }
+
+	/*Developer: Hussen Ahmed
+	* University ID: 230177600
+	* Function: This function takes two integer as input, multiple both numbers and returns the result.
+	*/
+	public int multiply(int num1, int num2){
+		return num1 * num2;		
+	}
+
 }
