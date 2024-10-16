@@ -22,6 +22,7 @@ public class Math {
        			return num2;
     		}
 	}
+	
 	/* Developer: Vatsal Mehta
 	 * University ID: 220408633
 	 * Function: This function takes two integer as input, calculate the mod ("%") the first number by second number and returns the result. For example Mod(8,2) should return 0, whereas Mod(7,2) should return 1.

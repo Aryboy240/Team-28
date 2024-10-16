@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="786fc3f2-15d2-4235-a4fd-61d1eb1ccabb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team28/src/week4/Math.java" beforeDir="false" afterPath="$PROJECT_DIR$/Team28/src/week4/Math.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -89,7 +90,8 @@
       <workItem from="1729070817955" duration="55000" />
       <workItem from="1729070994551" duration="4000" />
       <workItem from="1729071017981" duration="56000" />
-      <workItem from="1729071095440" duration="24000" />
+      <workItem from="1729071095440" duration="124000" />
+      <workItem from="1729071229232" duration="19000" />
     </task>
     <servers />
   </component>
