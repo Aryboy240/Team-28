@@ -20,8 +20,8 @@ public class Math {
         		return num1;
     		}else{
        			return num2;
-    	}
-}
+    		}
+	}
 
 
 }
